@@ -1,6 +1,6 @@
 #!/user/bin/env python
 #!-*-coding:utf-8 -*-
-#!@Author : gexianyu
+#!@Author : paul
 
 t='5k-12k'
 s = t.replace('k','').split('-')
